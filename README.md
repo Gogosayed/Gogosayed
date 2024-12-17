@@ -20,7 +20,7 @@
 
 ## 👨‍💻 Graduated from **DEPI & MCIT**.  
 ## 🛠️ Skills
-  -Visual Studio Code.
+  
   - HTML, CSS, JavaScript.
   - Bootstrap.
   - Angular.
@@ -43,7 +43,7 @@
 ### Feel free to contact Me :
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:Dr.anfalbadr@gmail.com)](mailto:Dr.anfalbadr@gmail.com)
-<a href="www.linkedin.com/in/anfal-badr" target="_blank"><img src="https://img.shields.io/badge/Anfal%20Badr-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="www.linkedin.com/in/Hager Sayed" target="_blank"><img src="https://img.shields.io/badge/Hager%20Sayed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/Anfalmarzouk" target="_blank"><img src="https://img.shields.io/badge/-Anfal%20Badr-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
 
