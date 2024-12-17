@@ -61,7 +61,7 @@
 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dr-Anfal-Badr&show_icons=true&locale=en&layout=compact&theme=radical%22%20alt=%22most%20used%20languages" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gogosayed&show_icons=true&locale=en&layout=compact&theme=radical%22%20alt=%22most%20used%20languages" />
 <br>
 <a href="https://komarev.com/ghpvc/?username=Dr-Anfal-Badr&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=Dr-Anfal-Badr&style=for-the-badge">
